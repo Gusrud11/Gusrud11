@@ -23,4 +23,4 @@ I'm a student from IFC and an amateur Guitarrist
 
 just a begginer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusrud11&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusrud11&show_icons=true&theme=material-palenight)
