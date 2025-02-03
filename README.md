@@ -7,7 +7,7 @@ I'm a student from IFC and an professional Speedcuber
 
 ---
 
-### What tools and languages i use
+### What tools and languages I use
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px" align="left" padding-right="30px"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30px" align="left" padding-right="30px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30px" align="left" padding-right="30px" />
