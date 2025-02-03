@@ -1,9 +1,9 @@
 # Gusrud11
 
 **`Gustavo Dreyer, AKA Gustin`**<br>
-**`Guitarrist and programing student`**<br>
+**`Speedcuber and programing student`**<br>
 
-I'm a student from IFC and an amateur Guitarrist 
+I'm a student from IFC and an professional Speedcuber 
 
 ---
 
